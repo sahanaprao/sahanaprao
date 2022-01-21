@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sahanaprao
 - 👀 I’m interested in Front end technologies. I primarily worked on Angular projects. 
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me out on email (sahanaparameshwararao@gmail.com)
 
 <!---
